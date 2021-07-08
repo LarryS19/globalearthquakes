@@ -1,5 +1,8 @@
 # Recent Earthquakes Worldwide Past 24 Hours
 
+## Installation
+run `python install -r requirements.txt`
+
 ## Quick Overview
 This was a fun project to work on since this was one of my first interactive visualizations. 
 A simple but very informative scatter plot was the result of the code that is available within this repository. The plot allows you to zoom in/out and displays the magnitudes and locations for all earthquakes. Each circle represents an earthquake, varying in size and color. The larger and the closer to red, the higher the magnitude. 
